@@ -89,7 +89,7 @@ if (isset($_POST['body']) && isset($_GET['id'])) {
 </html>
 ```
 
-# \---
+* * *
 
 # \- `buscador.php`
 
@@ -181,7 +181,7 @@ $result = $stmt->execute();
 
 * * *
 
-# \---
+
 
 # \- `insert_player.php`
 
@@ -311,7 +311,6 @@ if (isset($_POST['name']) && isset($_POST['team'])) {
 
 * * *
 
-# \---
 
 # \- `register.php`
 
@@ -414,7 +413,6 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
 
 * * *
 
-# \---
 
 # \- `show_comments.php`
 
@@ -518,7 +516,6 @@ if (isset($_GET['id']))
 
 * * *
 
-# \---
 
 # \- `index.php`
 
@@ -603,7 +600,7 @@ if (isset($_POST['Logout'])) {
 
 ```
 
-# \---
+* * *
 
 # \- `auth.php`
 
